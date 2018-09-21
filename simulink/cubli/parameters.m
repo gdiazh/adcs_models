@@ -1,0 +1,11 @@
+% Model parameters
+l = 0.085; 		%[m]
+lb = 0.075;		%[m]
+mb = 0.419;		%[Kg]
+mw = 0.204;		%[Kg]
+Ib = 3.34e-3;	%[Kgm2]
+Iw = 0.57e-3;	%[Kgm2]
+Cb = 1.02e-3;	%[Kgm2s-1]
+Cw = 0.05e-3;	%[Kgm2s-1]
+g = 9.8;		%[m/s2]
+Km = 25.1e-3;	%[NmA-1]
