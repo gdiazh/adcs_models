@@ -1,4 +1,5 @@
 simulink/motor_model/figs_model_vs_data/
 simulink/motor_model/figs_current_control
+simulink/cubli/slprj/
 *.pyc
 *~
